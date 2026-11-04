@@ -27,7 +27,7 @@ class SmartKasirApp extends StatelessWidget {
         appBarTheme: const AppBarTheme(
           centerTitle: true,
           elevation: 2,
-          backgroundColor: Color(0xFF1E3A8A),
+          backgroundColor: Colors.deepOrange,
           foregroundColor: Colors.white,
         ),
       ),

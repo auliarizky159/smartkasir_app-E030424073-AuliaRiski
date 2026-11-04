@@ -71,8 +71,7 @@ final List<Produk> daftarProdukDummy = [
     kategori: 'Snack',
     harga: 12000,
     stok: 18,
-    gambarUrl:
-        'https://images.unsplash.com/photo-1576107232684-1279f3908594?w=300',
+    gambarUrl: 'https://images.unsplash.com/photo-1526230427044-d092040d48dc?auto=format&fit=crop&fm=jpg&q=60&w=3000',
   ),
 
   const Produk(
